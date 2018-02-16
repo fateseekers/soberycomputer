@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st3{font-family:'MyriadPro-Regular';}
+	.st4{font-size:27px;}
+	.st5{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="50" y="42" class="st0" width="52" height="51"/>
+	<path d="M101,43l0,3.9v5.9l0,39.1H51V53V43H101 M103,41c-18,0-36,0-54,0c0,4,0,8,0,12c0,13.7,0,27.3,0,41h54c0-13.7,0-27.4,0-41.1
+		C103,48.9,103,45,103,41L103,41z"/>
+</g>
+<path d="M30,53"/>
+<polyline class="st1" points="30,53 75,18 121,53 "/>
+<path d="M122,54"/>
+<rect x="80" y="68" class="st2" width="13" height="25"/>
+<text transform="matrix(1 0 0 1 30.1299 117.416)" class="st3 st4">Главная</text>
+<g>
+	<line class="st5" x1="29" y1="53" x2="51" y2="53"/>
+</g>
+<line class="st5" x1="101" y1="53" x2="122" y2="53"/>
+</svg>

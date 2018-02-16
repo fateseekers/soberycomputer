@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'MyriadPro-Regular';}
+	.st1{font-size:27px;}
+	.st2{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<text transform="matrix(1 0 0 1 33.1299 116.416)" class="st0 st1">Сборки</text>
+<path class="st2" d="M93,91H59c-6.6,0-12-5.4-12-12V31c0-6.6,5.4-12,12-12h34c6.6,0,12,5.4,12,12v48C105,85.6,99.6,91,93,91z"/>
+<path class="st2" d="M93.5,36h-35C56,36,54,34,54,31.5v0c0-2.5,2-4.5,4.5-4.5h35c2.5,0,4.5,2,4.5,4.5v0C98,34,96,36,93.5,36z"/>
+<circle class="st2" cx="93" cy="31" r="1"/>
+<path class="st2" d="M87,83H67c-6.6,0-6-5.4-6-12V57c0-6.6-0.6-12,6-12h20c6.6,0,5,5.4,5,12v14C92,77.6,93.6,83,87,83z"/>
+</svg>

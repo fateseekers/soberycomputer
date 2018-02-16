@@ -1,0 +1,199 @@
+@media screen and (max-width:400px){
+
+	.content{
+		margin:0 auto;
+		width:350px;
+	}
+
+	header{
+		top:0;
+		margin:0;
+		position: fixed;
+		height:45px;
+		width:100%;
+		background: white;
+	}
+	
+	.heading_and_menu{
+		flex-direction: column;
+	}
+	
+	.heading h1{
+		text-align: center;
+		font-size: 2.5em;
+		font-family: 'Lobster', sans-serif;
+	}
+
+	.nav{
+		display: none;
+	}
+
+	.mainText{
+		margin-top:100px;
+	}
+	
+	.divmediamenu{
+		display: flex;
+		position: fixed;
+		bottom:0;
+		left: 0;
+		background: white;
+		width:100%;
+		height:50px;
+	}
+
+	.divmediamenu a, .divmediamenu a, .divmediamenu a, .divmediamenu a, .divmediamenu a{
+		width:60px;
+		height:50px;
+		display: flex;
+		margin:0 auto;
+	}
+
+	.divitem img{
+		position: relative;
+		flex-direction: row;
+		margin:0;
+		padding:0;
+		width:50px;
+		height:50px;
+	}
+
+	.divicon{
+		margin:0 auto;
+		width:100px;
+		height:100px;
+		margin:15px auto;
+	}
+
+	.icon1{
+		background:url(../images/icons/icons.jpg);
+		background-position: -33px -23px;
+		background-size: 395%;
+	}
+	
+	.icon2{
+		background:url(../images/icons/icons.jpg);
+		background-position: -150px -20px;
+		background-size: 395%;
+	}
+	
+	.icon3{
+		background:url(../images/icons/icons.jpg);
+		background-position: -150px -246px;
+		background-size: 395%;
+	}
+	
+	.icon4{
+		background:url(../images/icons/icons.jpg);
+		background-position: -35px -20px;
+		background-size: 395%;
+	}
+
+	.leftPC img{
+		position: absolute;
+		width:70px;
+		z-index: -2;
+		top:210px;
+		animation: left 1s 0s ease-in-out alternate ;
+		animation-iteration-count: infinite;
+	}
+
+	.rightPC img{
+		position: absolute;
+		width:65px;
+		height: auto;
+		top:90px;
+		left:285px;
+		z-index: -2;
+		animation: right 2s 0s ease-in-out alternate ;
+		animation-iteration-count: infinite;
+
+	}
+
+	@keyframes right{
+		0%{
+			transform: rotate(-15deg);
+		}
+		100%{
+			transform: rotate(15deg);
+		}
+	}
+
+	@keyframes left{
+		0%{
+			transform: rotate(15deg);
+		}
+		100%{
+			transform: rotate(-15deg);
+		}
+	}
+
+	.middleINFO{
+		width:300px;
+		font-size: 20px;
+		line-height: 30px;
+		justify-content: center;
+	}
+
+	.ourpluses h2, .products h2, .order h2, .contacts h2{
+		font-size:1.7em;
+	}
+
+	.product{
+		flex-direction: column;
+	}
+
+	.pcimg{
+		text-align: center;
+	}
+
+	.pcimg img{
+		width:250px;
+	}
+
+	.divrow{
+		flex-direction: column;
+	}
+
+	.divitem{
+		margin:0px auto;
+	}
+
+	.divproductrow{
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	.product{	
+		width:300px;
+		margin:0 0 10px 0;
+	}
+
+	form{
+		justify-content: center;
+		width:300px;
+	}
+
+	.order{
+		margin: 75px 0;
+	}
+
+	.divbuttons{
+		margin-left:50px;
+		padding:0;
+	}
+
+	.order form input[type="text"], .order form input[type="email"]{
+		margin-left:10px;
+		width:310px;
+		padding:5px 10px;
+	}
+
+	.contacts{
+		margin-bottom:50px;
+	}
+
+	#button{
+		display: none !important;
+	}
+}
